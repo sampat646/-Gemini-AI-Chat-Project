@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 
 1. Start the Flask server:
    ```
-   python app.py
+   python ownai.py
    ```
 
 2. Open your web browser and navigate to `http://localhost:5000`
